@@ -213,7 +213,7 @@ h2 {
   font-weight: 600;
 }
 
-.footer .copyright span {
+.footer .copyright span.name {
   color: #f54335;
 }
 

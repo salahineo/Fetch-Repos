@@ -15,7 +15,7 @@
 
 ### Goal
 
-This is a simple application to fetch github repositories based on github API. I coded this project to practice my knowledge of HTML, CSS, JavaScript, JSON, and AJAX in a real project.
+This is fetch github repositories based on github API application. I coded this project to practice on my knowledge of HTML, CSS, JavaScript, JSON, and AJAX in a real project.
 
 ### Benefits
 
@@ -39,7 +39,7 @@ Here is the demo of this [application](https://salahineo.github.io/Fetch-Repos/)
 - JSON
 - AJAX
 
-> This Application is fully responsive
+> This application is fully responsive
 
 ### Contact
 
@@ -53,7 +53,7 @@ Here is the demo of this [application](https://salahineo.github.io/Fetch-Repos/)
 ### Copyright and license
 
 - **[GPLv3](https://www.gnu.org/licenses/gpl-3.0)**
-- **© 2020 | Mohamed Salah**
+- **© 2021 | Mohamed Salah**
 
 ---
 
