@@ -203,7 +203,7 @@ h2 {
   margin: auto;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   position: absolute;
   bottom: 20px;
   width: calc(100% - 40px);
@@ -213,7 +213,7 @@ h2 {
   font-weight: 600;
 }
 
-.footer .copyright span.name {
+.footer .copyright .name {
   color: #f54335;
 }
 
